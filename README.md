@@ -1,5 +1,6 @@
-# Hi I'm ERFAN 🤞💚
-## Welcome to my github profile 👋
+<h1 align="center">Hi 👋, I'm Erfan</h1>
+<h3 align="center">Enthusiastic front-end programmer and interested in learning in this field</h3>
+
 ## Let's see more information about me 👇
 ```javascript
   const myName = "Seyed Erfan Ghezi";
