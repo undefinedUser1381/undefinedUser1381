@@ -3,9 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=undefineduser1381" alt="undefineduser1381" /></a> </p>
 
-- 🔭 I’m currently working on dashboard with ts , react , redux-toolkit , tailwind and .... [dashboard](https://github.com/undefinedUser1381/dashboard)
-
-- 🌱 I’m currently learning **nextjs and some react libraries**
+- 🔭 I’m currently working on dashboard with ts , react , redux-toolkit , tailwind and next js . [dashboard](https://github.com/undefinedUser1381/dashboard)
 
 - 👨‍💻 All of my projects are available at [https://github.com/undefinedUser1381](https://github.com/undefinedUser1381)
 
@@ -22,7 +20,7 @@
 ``` json
 {
     "name": "Seyed Erfan Ghezi",
-    "skills": "React js | Tailwind css | React-query | Redux-toolkit | Axios | and some libraries like swiper , i18next , ....",
+    "skills": "React js | Tailwind css | React-query | Redux-toolkit | Axios | and some libraries like swiper , i18next , Next.js"
     "university" : "Payam noor sabzevar"
     "description": "An enthusiastic front end developer who has studied in this field for about 2 years. My abilities: React, Tailwind css, React libraries and JS libraries,Git,Github. Currently learning next.js"
 }
