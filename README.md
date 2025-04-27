@@ -20,7 +20,7 @@
 ``` json
 {
     "name": "Seyed Erfan Ghezi",
-    "skills": "React js | Tailwind css | React-query | Redux-toolkit | Axios | and some libraries like swiper , i18next , Next.js"
+    "skills": "React js | Next js | Tailwind css | React-query | Redux-toolkit | Axios | and some libraries like swiper , i18next , ..."
     "university" : "Payam noor sabzevar"
     "description": "An enthusiastic front end developer who has studied in this field for about 2 years. My abilities: React, Tailwind css, React libraries and JS libraries,Git,Github. Currently learning next.js"
 }
