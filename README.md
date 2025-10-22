@@ -39,62 +39,42 @@ console.log("My Skills: ", skills);
 
 ### 🧠 Skills & Technologies
 
+### 🧠 Skills & Technologies
+
 <div align="center">
 
   <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
-  </a>
+  [![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
   <!-- Next.js -->
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="45" height="45"/>
-  </a>
+  [![Next.js](https://cdn.worldvectorlogo.com/logos/nextjs-2.svg)](https://nextjs.org/)
 
   <!-- Tailwind CSS -->
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="45" height="45"/>
-  </a>
+  [![Tailwind CSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)](https://tailwindcss.com/)
 
   <!-- Shadcn -->
-  <a href="https://ui.shadcn.com/" target="_blank">
-    <img src="https://api.iconify.design/mdi:alpha-s-box-outline.svg" alt="Shadcn" width="45" height="45"/>
-  </a>
+  [![Shadcn](https://img.shields.io/badge/Shadcn-UI-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](https://ui.shadcn.com/)
 
   <!-- Socket.io -->
-  <a href="https://socket.io/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Socket-io.svg" alt="Socket.io" width="45" height="45"/>
-  </a>
+  [![Socket.io](https://upload.wikimedia.org/wikipedia/commons/6/6f/Socket-io.svg)](https://socket.io/)
 
   <!-- Postman -->
-  <a href="https://www.postman.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="45" height="45"/>
-  </a>
+  [![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)](https://www.postman.com/)
 
   <!-- Redux Toolkit -->
-  <a href="https://redux.js.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux Toolkit" width="45" height="45"/>
-  </a>
+  [![Redux Toolkit](https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg)](https://redux.js.org/)
 
   <!-- React Hook Form -->
-  <a href="https://react-hook-form.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React Hook Form" width="45" height="45"/>
-  </a>
+  [![React Hook Form](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)](https://react-hook-form.com/)
 
   <!-- Zustand -->
-  <a href="https://github.com/pmndrs/zustand" target="_blank">
-    <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/docs/zustand.png" alt="Zustand" width="45" height="45"/>
-  </a>
+  [![Zustand](https://raw.githubusercontent.com/pmndrs/zustand/main/docs/zustand.png)](https://github.com/pmndrs/zustand)
 
   <!-- Zod -->
-  <a href="https://zod.dev/" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/84599333?s=200&v=4" alt="Zod" width="45" height="45"/>
-  </a>
+  [![Zod](https://avatars.githubusercontent.com/u/84599333?s=200&v=4)](https://zod.dev/)
 
   <!-- Yup -->
-  <a href="https://github.com/jquense/yup" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/26755617?s=200&v=4" alt="Yup" width="45" height="45"/>
-  </a>
+  [![Yup](https://avatars.githubusercontent.com/u/26755617?s=200&v=4)](https://github.com/jquense/yup)
 
 </div>
 
