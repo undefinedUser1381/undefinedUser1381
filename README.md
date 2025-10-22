@@ -71,8 +71,4 @@ console.log("My Skills: ", skills);
   <!-- Zod -->
   [![Zod](https://avatars.githubusercontent.com/u/84599333?s=200&v=4)](https://zod.dev/) &nbsp;
 
-  <!-- Yup -->
-  [![Yup](https://avatars.githubusercontent.com/u/26755617?s=200&v=4)](https://github.com/jquense/yup)
-
 </div>
-
