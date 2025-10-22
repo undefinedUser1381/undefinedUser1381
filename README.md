@@ -42,36 +42,37 @@ console.log("My Skills: ", skills);
 <div align="center">
 
   <!-- JavaScript -->
-  [![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  [![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) &nbsp;
 
   <!-- Next.js -->
-  [![Next.js](https://cdn.worldvectorlogo.com/logos/nextjs-2.svg)](https://nextjs.org/)
+  [![Next.js](https://cdn.worldvectorlogo.com/logos/nextjs-2.svg)](https://nextjs.org/) &nbsp;
 
   <!-- Tailwind CSS -->
-  [![Tailwind CSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)](https://tailwindcss.com/)
+  [![Tailwind CSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)](https://tailwindcss.com/) &nbsp;
 
   <!-- Shadcn -->
-  [![Shadcn](https://img.shields.io/badge/Shadcn-UI-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](https://ui.shadcn.com/)
+  [![Shadcn](https://img.shields.io/badge/Shadcn-UI-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](https://ui.shadcn.com/) &nbsp;
 
   <!-- Socket.io -->
-  [![Socket.io](https://upload.wikimedia.org/wikipedia/commons/6/6f/Socket-io.svg)](https://socket.io/)
+  [![Socket.io](https://upload.wikimedia.org/wikipedia/commons/6/6f/Socket-io.svg)](https://socket.io/) &nbsp;
 
   <!-- Postman -->
-  [![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)](https://www.postman.com/)
+  [![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)](https://www.postman.com/) &nbsp;
 
   <!-- Redux Toolkit -->
-  [![Redux Toolkit](https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg)](https://redux.js.org/)
+  [![Redux Toolkit](https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg)](https://redux.js.org/) &nbsp;
 
   <!-- React Hook Form -->
-  [![React Hook Form](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)](https://react-hook-form.com/)
+  [![React Hook Form](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)](https://react-hook-form.com/) &nbsp;
 
   <!-- Zustand -->
-  [![Zustand](https://raw.githubusercontent.com/pmndrs/zustand/main/docs/zustand.png)](https://github.com/pmndrs/zustand)
+  [![Zustand](https://raw.githubusercontent.com/pmndrs/zustand/main/docs/zustand.png)](https://github.com/pmndrs/zustand) &nbsp;
 
   <!-- Zod -->
-  [![Zod](https://avatars.githubusercontent.com/u/84599333?s=200&v=4)](https://zod.dev/)
+  [![Zod](https://avatars.githubusercontent.com/u/84599333?s=200&v=4)](https://zod.dev/) &nbsp;
 
   <!-- Yup -->
   [![Yup](https://avatars.githubusercontent.com/u/26755617?s=200&v=4)](https://github.com/jquense/yup)
 
 </div>
+
