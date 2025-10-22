@@ -18,6 +18,9 @@
 ### 🧑‍💻 About Me
 I'm Erfan, a front-end developer with a love for creating dynamic and user-friendly web applications. I have been in the web development field for nearly 3 years and have a deep passion for building projects that bring ideas to life. I focus on front-end technologies like React and Next.js, always staying up-to-date with the latest trends in the industry.
 
+### 🌍 My Personal Website
+You can check out my personal website here: [Personal Next](https://personal-next-ten.vercel.app/)
+
 ### 🛠️ Technologies & Skills
 Here's a glimpse of my technical stack:
 
