@@ -66,9 +66,13 @@ console.log("My Skills: ", skills);
   [![React Hook Form](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)](https://react-hook-form.com/) &nbsp;
 
   <!-- Zustand -->
-  [![Zustand](https://raw.githubusercontent.com/pmndrs/zustand/main/docs/zustand.png)](https://github.com/pmndrs/zustand) &nbsp;
+  [![Zustand](https://raw.githubusercontent.com/pmndrs/zustand/main/docs/zustand-logo.png)](https://github.com/pmndrs/zustand) &nbsp;
 
   <!-- Zod -->
   [![Zod](https://avatars.githubusercontent.com/u/84599333?s=200&v=4)](https://zod.dev/) &nbsp;
 
+  <!-- Yup -->
+  [![Yup](https://avatars.githubusercontent.com/u/26755617?s=200&v=4)](https://github.com/jquense/yup)
+
 </div>
+
