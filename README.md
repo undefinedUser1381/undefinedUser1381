@@ -36,9 +36,7 @@ const skills = [
   "Yup"
 ];
 console.log("My Skills: ", skills);
-
-### 🧠 Skills & Technologies
-
+```
 ### 🧠 Skills & Technologies
 
 <div align="center">
@@ -77,6 +75,3 @@ console.log("My Skills: ", skills);
   [![Yup](https://avatars.githubusercontent.com/u/26755617?s=200&v=4)](https://github.com/jquense/yup)
 
 </div>
-
-
-
