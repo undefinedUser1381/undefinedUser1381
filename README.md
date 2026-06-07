@@ -36,4 +36,4 @@ const erfan = {
 
 ### 🌍 My Personal Website
 
-[![Visit My Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-2D79F0?style=for-the-badge&logo=vercel&logoColor=white)](https://personal-next-ten.vercel.app/)
+**🌐 [پروفایل من](https://personal-next-ten.vercel.app/)**
