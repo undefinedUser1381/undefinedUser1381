@@ -1,39 +1,56 @@
+# 💻 Frontend Developer | React | Next.js | PWA
+
+![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet)
+![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=Follow&style=social)
+
+## 🚀 Tech Stack
+
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Hi, I'm Erfan
+### 🧩 Main Technologies
 
-## A passionate front-end developer with 3 years of experience from Sabzevar
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D79F0&center=true&vCenter=true&width=435&lines=React+%26+Next.js+Developer;Tailwind+CSS+Enthusiast;Building+Modern+Web+Apps" alt="Typing SVG" />
-</p>
+### 🔧 Tools & Libraries
 
-<p align="center">
-  <a href="https://github.com/undefineduser1381">
-    <img src="https://img.shields.io/badge/GitHub-undefineduser1381-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:errfan8113@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-errfan8113%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://t.me/ErFnGhy">
-    <img src="https://img.shields.io/badge/Telegram-ErFnGhy-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-</p>
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
 
 ---
 
-### 🧑‍💻 About Me
+## 📌 About Me
 
-```javascript
-const erfan = {
-  role: "Front-End Developer",
-  experience: "3 years",
-  location: "Sabzevar, Iran",
-  passions: ["Building web apps", "Learning new tech", "UI/UX Design"],
-  currentFocus: "Next.js 15 + Tailwind CSS",
-  funFact: "I can spend hours perfecting a single component ✨"
+- 🔭 I’m currently working on **modern frontend projects**
+- 🌱 Learning **Next.js 15 + PWA**
+- 💬 Ask me about **React, Tailwind, React Query**
+- 📫 How to reach me: `your.email@example.com`
+- ⚡ Fun fact: I love building fast & beautiful web apps
+
+---
+
+## 🧪 Sample React Query + API
+
+```js
+import { useQuery } from '@tanstack/react-query';
+
+const fetchUsers = async () => {
+  const res = await fetch('https://jsonplaceholder.typicode.com/users');
+  return res.json();
 };
 
-### 🌍 My Personal Website
-
-**🌐 [پروفایل من](https://personal-next-ten.vercel.app/)**
+export default function Users() {
+  const { data, isLoading } = useQuery({ queryKey: ['users'], queryFn: fetchUsers });
+  if (isLoading) return <p>Loading...</p>;
+  return <ul>{data.map(user => <li key={user.id}>{user.name}</li>)}</ul>;
+}
