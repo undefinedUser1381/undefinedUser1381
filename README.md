@@ -1,61 +1,74 @@
-<h1 align="center">Hi 👋, I'm Erfan</h1>
-<h3 align="center">A passionate front-end developer with 3 years of experience from Sabzevar</h3>
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Hi, I'm Erfan
+
+## A passionate front-end developer with 3 years of experience from Sabzevar
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D79F0&center=true&vCenter=true&width=435&lines=React+%26+Next.js+Developer;Tailwind+CSS+Enthusiast;Building+Modern+Web+Apps" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://github.com/undefineduser1381">
-    <img src="https://img.shields.io/badge/GitHub-undefineduser1381-brightgreen?style=flat-square&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-undefineduser1381-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="mailto:errfan8113@gmail.com">
-    <img src="https://img.shields.io/badge/Email-errfan8113%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-errfan8113%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://t.me/ErFnGhy">
-    <img src="https://img.shields.io/badge/Telegram-%40ErFnGhy-0088cc?style=flat-square&logo=telegram" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/Telegram-ErFnGhy-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
-I'm Erfan, a front-end developer with a love for creating dynamic and user-friendly web applications. I have been in the web development field for nearly 3 years and have a deep passion for building projects that bring ideas to life. I focus on front-end technologies like React and Next.js, always staying up-to-date with the latest trends in the industry.
-
-### 🌍 My Personal Website
-You can check out my personal website here: [Personal Next](https://personal-next-ten.vercel.app/)
-
-### 🛠️ Technologies & Skills
-Here's a glimpse of my technical stack:
 
 ```javascript
-const skills = [
-  "JavaScript",
-  "Next.js",
-  "Tailwind CSS",
-  "Shadcn",
-  "Socket.io",
-  "Postman",
-  "Redux Toolkit",
-  "React Hook Form",
-  "Zustand",
-  "Zod",
-  "Yup"
-];
-console.log("My Skills: ", skills);
-```
-<div align="center"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="60" height="60"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="60" height="60"/> </a> <a href="https://ui.shadcn.com/" target="_blank"> <img src="https://img.shields.io/badge/Shadcn-UI-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" alt="Shadcn" height="60"/> </a> <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="60" height="60"/> </a> <a href="https://redux.js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux Toolkit" width="60" height="60"/> </a> <a href="https://react-hook-form.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React Hook Form" width="60" height="60"/> </a> </div> 
+const erfan = {
+  role: "Front-End Developer",
+  experience: "3 years",
+  location: "Sabzevar, Iran",
+  passions: ["Building web apps", "Learning new tech", "UI/UX Design"],
+  currentFocus: "Next.js 15 + Tailwind CSS",
+  funFact: "I can spend hours perfecting a single component ✨"
+};
+🌍 My Personal Website
+<a href="https://personal-next-ten.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Visit_My_Portfolio-2D79F0?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/> </a>
+🛠️ Tech Stack
+<div align="center">
+Category	Technologies
+Languages	<img src="https://skillicons.dev/icons?i=js,ts,html,css" />
+Frameworks	<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux" />
+State Management	<img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white" height="35"/> <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" height="35"/>
+Forms & Validation	<img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" height="35"/> <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" height="35"/> <img src="https://img.shields.io/badge/Yup-000000?style=for-the-badge&logo=npm&logoColor=white" height="35"/>
+UI Libraries	<img src="https://img.shields.io/badge/Shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" height="35"/> <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" height="35"/> <img src="https://img.shields.io/badge/Swiper-6332F6?style=for-the-badge&logo=swiper&logoColor=white" height="35"/>
+PWA	<img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" height="35"/>
+Tools	<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+Package Managers	<img src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white" height="35"/> <img src="https://img.shields.io/badge/npm-CB3837?style-for-the-badge&logo=npm&logoColor=white" height="35"/>
+</div>
+📊 GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=undefineduser1381&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=undefineduser1381&theme=tokyonight&hide_border=true&background=0D1117" width="48%" /> </div><div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=undefineduser1381&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="45%" /> </div>
+🚀 Featured Projects
+Project	Description	Tech Stack
+Dashboard Admin Panel	Modern admin panel with charts & analytics	Next.js, Tailwind, Recharts, Shadcn
+Portfolio Website	Personal portfolio with smooth animations	Next.js, Framer Motion, Tailwind
+Weather App	Real-time weather forecast app	React, OpenWeather API, Tailwind
+NFT Marketplace UI	Modern NFT marketplace design	Next.js, Tailwind, Swiper
+Dictionary App	Simple dictionary with word meanings	React, Dictionary API, CSS Modules
+📈 My Coding Journey
+text
+┌─────────────────────────────────────────────────────────────┐
+│  ████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  │
+│  React/Next.js              ████████████████████  70%       │
+│  Tailwind/CSS               ██████████████████████  85%     │
+│  TypeScript                 ████████████████░░░░  55%       │
+│  State Management           ████████████████░░░░  60%       │
+│  UI/UX Design               ████████████████░░░░  58%       │
+└─────────────────────────────────────────────────────────────┘
+📫 Connect With Me
+<p align="center"> <a href="https://github.com/undefineduser1381"> <img src="https://img.shields.io/badge/GitHub-undefineduser1381-181717?style=for-the-badge&logo=github" alt="GitHub"/> </a> <a href="https://t.me/ErFnGhy"> <img src="https://img.shields.io/badge/Telegram-ErFnGhy-26A5E4?style=for-the-badge&logo=telegram" alt="Telegram"/> </a> <a href="mailto:errfan8113@gmail.com"> <img src="https://img.shields.io/badge/Gmail-errfan8113%40gmail.com-EA4335?style=for-the-badge&logo=gmail" alt="Email"/> </a> </p>
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=undefineduser1381&color=2D79F0&style=for-the-badge" alt="Profile Views"/>
+⭐ Show some love by starring my repositories! ⭐
+Made with ❤️ by Erfan
 
-### 🚀 Featured Projects
-
-Here are some of the projects I've worked on:
-
-| Project Name         | Description                                | Link |
-|----------------------|--------------------------------------------|------|
-| **Dashboard**         | A modern admin panel built with Next.js & Tailwind | [🔗 View](https://github.com/undefinedUser1381/dashboard) |
-| **Landing Page**      | Responsive landing page project           | [🔗 View](https://github.com/undefinedUser1381/landing.github.io) |
-| **Weather App**       | Simple weather forecast app               | [🔗 View](https://github.com/undefinedUser1381/weather-app) |
-| **NFT Marketplace**   | A demo NFT marketplace UI                 | [🔗 View](https://github.com/undefinedUser1381/NFTmarketplace.github.io) |
-| **Dictionary App**    | Simple word meaning dictionary            | [🔗 View](https://github.com/undefinedUser1381/dictionary) |
-| **Personal Next Site**| Personal website built with Next.js       | [🔗 View](https://github.com/undefinedUser1381/Personal-next) |
-| **Lion Computer Clone**| Landing page clone of Lion Computer      | [🔗 View](https://github.com/undefinedUser1381/lioncomputer.github.io) |
-| **Sederfan Portfolio**| Portfolio website                         | [🔗 View](https://github.com/undefinedUser1381/sederfan.github.io) |
-| **Technoara**         | Tech company landing page                 | [🔗 View](https://github.com/undefinedUser1381/Technoara) |
-
+</div> 
 
