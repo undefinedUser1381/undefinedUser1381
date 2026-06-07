@@ -1,4 +1,4 @@
-```<div align="center">
+<div align="center">
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Hi, I'm Erfan
 
@@ -33,4 +33,3 @@ const erfan = {
   currentFocus: "Next.js 15 + Tailwind CSS",
   funFact: "I can spend hours perfecting a single component ✨"
 };
-
