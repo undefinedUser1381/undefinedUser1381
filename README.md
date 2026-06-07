@@ -10,22 +10,13 @@ I'm a **Frontend Developer** passionate about building fast, modern, and beautif
 
 - 🔭 Currently working with **React**, **Next.js**, and **Tailwind CSS**
 - 📱 Experienced with **PWA** (Progressive Web Apps)
-- ⚡ Tech I master: **JavaScript**, **React Query**, **Postman**, **HTML5**, **CSS3**
+- ⚡ Tech I master: **JavaScript**, **React js**, **Next js**, **HTML5**, **CSS3**
 - 🎯 Focus on clean code, performance, and user experience
 
 ---
 
 ## 🔥 Animated Banner
 
-┌──────────────────────────────────────────┐
-│ │
-│ 🚀 Frontend Developer │
-│ ⚡ React · Next.js · PWA │
-│ 🎨 Tailwind CSS · React Query │
-│ 📱 Building modern web apps │
-│ │
-│ — Erfan — │
-└──────────────────────────────────────────┘
 
 
 ---
