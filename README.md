@@ -1,54 +1,72 @@
-# 💻 Frontend Developer | React | Next.js | PWA
+# 👋 Hi there! I'm Erfan
 
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet)
-![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=Follow&style=social)
+![Profile views](https://komarev.com/ghpvc/?username=erfan&color=blueviolet)
 
-## 🚀 Tech Stack
+---
+
+## 🧑‍💻 About Me
+
+I'm a **Frontend Developer** passionate about building fast, modern, and beautiful web applications.
+
+- 🔭 Currently working with **React**, **Next.js**, and **Tailwind CSS**
+- 📱 Experienced with **PWA** (Progressive Web Apps)
+- ⚡ Tech I master: **JavaScript**, **React Query**, **Postman**, **HTML5**, **CSS3**
+- 🎯 Focus on clean code, performance, and user experience
+
+---
+
+## 🔥 Animated Banner
+
+┌──────────────────────────────────────────┐
+│ │
+│ 🚀 Frontend Developer │
+│ ⚡ React · Next.js · PWA │
+│ 🎨 Tailwind CSS · React Query │
+│ 📱 Building modern web apps │
+│ │
+│ — Erfan — │
+└──────────────────────────────────────────┘
+
+
+---
+
+## 🛠️ Technologies I Work With
 
 <div align="center">
 
-### 🧩 Main Technologies
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🔧 Tools & Libraries
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
 ---
 
-## 🧪 React Query Example (I Master It 💪)
+## 📊 GitHub Stats
 
-```js
-import { useQuery } from '@tanstack/react-query';
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=erfan&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erfan&layout=compact&theme=radical)
 
-const fetchUsers = async () => {
-  const res = await fetch('https://jsonplaceholder.typicode.com/users');
-  return res.json();
-};
+---
 
-export default function Users() {
-  const { data, isLoading } = useQuery({ 
-    queryKey: ['users'], 
-    queryFn: fetchUsers 
-  });
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/erfan)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/erfan)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erfan@gmail.com)
+
+---
+
+<div align="center">
   
-  if (isLoading) return <p>Loading...</p>;
-  
-  return (
-    <ul>
-      {data.map(user => <li key={user.id}>{user.name}</li>)}
-    </ul>
-  );
-}
+**⭐️ Thanks for visiting! ⭐️**
+
+Made with ❤️ by **Erfan**
+
+</div>
