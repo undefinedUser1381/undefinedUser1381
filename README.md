@@ -33,3 +33,6 @@ const erfan = {
   currentFocus: "Next.js 15 + Tailwind CSS",
   funFact: "I can spend hours perfecting a single component ✨"
 };
+
+🌍 My Personal Website
+<a href="https://personal-next-ten.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Visit_My_Portfolio-2D79F0?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/> </a>
