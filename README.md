@@ -37,8 +37,6 @@ Building modern, scalable and user-focused web applications for over <strong>4 y
 - 💜 Frontend Developer with **4+ years** of experience
 - ⚛️ Specialized in **React** & **Next.js**
 - 🎨 Passionate about clean UI and smooth UX
-- 🚀 Building my own educational brand **ErfaCode**
-- 📚 Currently creating **Web From Zero** course
 
 ---
 
